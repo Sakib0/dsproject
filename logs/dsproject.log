@@ -89,3 +89,14 @@ Source-Age: 0
 [2025-11-10 12:01:13,184: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2025-11-12 15:00:06,003: INFO: common: YAML file: config\config.yaml loaded successfully]
+[2025-11-12 15:00:06,040: INFO: common: YAML file: params.yaml loaded successfully]
+[2025-11-12 15:00:06,045: INFO: common: YAML file: schema.yaml loaded successfully]
+[2025-11-12 15:00:06,048: INFO: common: Directory created at: artifacts]
+[2025-11-12 15:00:06,136: INFO: common: Directory created at: artifacts/data_validation]
+[2025-11-12 15:01:31,133: INFO: common: YAML file: config\config.yaml loaded successfully]
+[2025-11-12 15:01:31,135: INFO: common: YAML file: params.yaml loaded successfully]
+[2025-11-12 15:01:31,138: INFO: common: YAML file: schema.yaml loaded successfully]
+[2025-11-12 15:01:31,140: INFO: common: Directory created at: artifacts]
+[2025-11-12 15:01:31,141: INFO: common: Directory created at: artifacts/data_validation]
+[2025-11-12 15:01:31,150: INFO: 1652930534: Data Validation completed successfully.]
