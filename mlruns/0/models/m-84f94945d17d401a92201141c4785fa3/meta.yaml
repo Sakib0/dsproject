@@ -1,0 +1,10 @@
+artifact_location: file:///f:/DS%20MLOps/dsproject/mlruns/0/models/m-84f94945d17d401a92201141c4785fa3/artifacts
+creation_timestamp: 1763464502089
+experiment_id: '0'
+last_updated_timestamp: 1763464512802
+model_id: m-84f94945d17d401a92201141c4785fa3
+model_type: null
+name: model
+source_run_id: eeb893e099474e339310d48b4d244ab2
+status: 2
+status_message: null

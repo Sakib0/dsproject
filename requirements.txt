@@ -12,3 +12,4 @@ joblib
 types-PyYAML
 Flask
 ipykernel
+dotenv
