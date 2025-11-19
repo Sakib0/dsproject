@@ -436,3 +436,9 @@ x==========x]
 [2025-11-18 16:31:48,230: INFO: main: >>>>>> Stage Model Trainer Stage completed <<<<<<
 
 x==========x]
+[2025-11-18 17:15:01,050: INFO: common: YAML file: config\config.yaml loaded successfully]
+[2025-11-18 17:15:01,052: INFO: common: YAML file: params.yaml loaded successfully]
+[2025-11-18 17:15:01,057: INFO: common: YAML file: schema.yaml loaded successfully]
+[2025-11-18 17:15:01,058: INFO: common: Directory created at: artifacts]
+[2025-11-18 17:15:01,060: INFO: common: Directory created at: artifacts/model_evaluation]
+[2025-11-18 17:15:02,052: INFO: common: JSON file saved at: artifacts\model_evaluation\metrics.json]
